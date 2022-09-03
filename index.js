@@ -6,7 +6,7 @@ const { body } = require('express-validator');
 const fs = require('fs');
 
 const app = express()
-const port = 5000
+const port = process.env.PORT || 5000;
 
 app.use(cors());
 app.use(express.json());
@@ -81,6 +81,17 @@ app.patch('/user/update/:id', (req, res) => {
     })
 })
 
+
+app.get('/', async (req, res) => {
+    res.send(`<h1>Random user server is running</h1> 
+    <h3>Get all user data use this end of the url ► <a href="https://randomuserapinodejs.herokuapp.com/all"> https://randomuserapinodejs.herokuapp.com/all</a></h3>
+    <h3>Get a random user data use this end of the url ► /user/random</h3>
+    <h3>For save user use this end of the url ► /user/save</h3>
+    <h3>For delete a single user by id use this ► /user/delete/1</h3>
+    <h3>For update a user data use this end of the url ► /user/update/:id</h3>
+    `);
+})
+
 app.listen(port, () => {
-    console.log(`Random user generator listening at http://localhost:${port}`)
+    console.log(`Random user generator listening at ${port}`)
 })
