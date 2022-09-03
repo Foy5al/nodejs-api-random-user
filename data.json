@@ -1,0 +1,82 @@
+[
+    {
+        "id": "1",
+        "gender": "male",
+        "name": "Abdulllah Al Billal",
+        "contact": "01680366666",
+        "address": "Tejgaon, Dhaka-1208",
+        "photoUrl": "https://qph.cf2.quoracdn.net/main-qimg-291930579aa2e874bec4d66808a9b497.webp"
+    },
+    {
+        "id": "2",
+        "gender": "female",
+        "name": "Megan Hall",
+        "contact": "01-1910-7711",
+        "address": "Launceston, Australia-5324",
+        "photoUrl": "https://randomuser.me/api/portraits/women/33.jpg"
+    },
+    {
+        "id": "3",
+        "gender": "female",
+        "name": "Rachel Denis",
+        "contact": "0076 873 98 96",
+        "address": "Solothurn, Switzerland-2062",
+        "photoUrl": "https://randomuser.me/api/portraits/women/20.jpg"
+    },
+    {
+        "id": "4",
+        "gender": "male",
+        "name": "Jadir Melo",
+        "contact": "(46) 9183-0401",
+        "address": "Pará, Brazil-44573",
+        "photoUrl": "https://randomuser.me/api/portraits/men/28.jpg"
+    },
+    {
+        "id": "5",
+        "gender": "male",
+        "name": "Topias Paavola",
+        "contact": "5-103-606",
+        "address": "Siikalatva, Finland-65361",
+        "photoUrl": "https://randomuser.me/api/portraits/men/81.jpg"
+    },
+    {
+        "id": "6",
+        "gender": "male",
+        "name": "Md Foysal",
+        "contact": "01680386886",
+        "address": "Tejgaon, Dhaka-1208",
+        "photoUrl": "https://avatars.githubusercontent.com/u/77278709?s=400&u=b44a728add4925bd36a325048e2a2086686515a9&v=4"
+    },
+    {
+        "id": "7",
+        "gender": "female",
+        "name": "Ariana Grande",
+        "contact": "420 420 420",
+        "address": "Florida, USA-6658",
+        "photoUrl": ""
+    },
+    {
+        "id": "008",
+        "gender": "male",
+        "name": "Salvador Meraz",
+        "contact": "(698) 949 2579",
+        "address": "Saldarriaga, Mexico-30331",
+        "photoUrl": "https://randomuser.me/api/portraits/men/76.jpg"
+    },
+    {
+        "id": "9",
+        "gender": "male",
+        "name": "Rafayel Varan",
+        "contact": "0169903422",
+        "address": "Manchester, England -1208",
+        "photoUrl": "https://img.a.transfermarkt.technology/portrait/big/164770-1598301905.jpg?lm=1"
+    },
+    {
+        "id": "10",
+        "gender": "female",
+        "name": "taylor swift",
+        "contact": "260 469 995",
+        "address": "Pencile venia, -95674",
+        "photoUrl": "https://images.news18.com/ibnlive/uploads/2022/06/taylor-swift.jpg"
+    }
+]
